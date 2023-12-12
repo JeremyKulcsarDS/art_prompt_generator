@@ -7,7 +7,7 @@ Please note that the Mid-Journey part of the process is manually done on a priva
 ## Installation
 
 1. Clone the repository to your local machine using the following command:  
-```git clone https://github.com/your-username/artistic-picture-generation.git```
+```git clone https://github.com/JeremyKulcsarDS/artistic-picture-generation.git```
 
 2. Install the required dependencies by running:  
 ```pip install -r requirements.txt```
