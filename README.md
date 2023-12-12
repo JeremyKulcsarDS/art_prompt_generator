@@ -24,6 +24,12 @@ DISCLAIMER: The usage of this notebook requires to have a properly configured ``
 
 4. Manually the content of the "detail" field and use it as a prompt for Mid-Journey. This will give the final output.
 
+## To-do list
+
+1. Make the notebook into a .py file accepting args from a console and later callable from a web UI
+
+2. Build a pipeline to integrate Mid-Journey directly and skip the manual copy/paste part
+
 ## Contact
 For any inquiries or feedback, please contact chankahei@xentropy.co or jeremy.kulcsar@diamondhill.io
 
